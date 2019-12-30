@@ -6,8 +6,7 @@ python3
 numba module for python3
 
 ## Computation Graphs
-![Graph 1](https://raw.githubusercontent.com/r4j0x00/time-bound-computation/master/images/mmat1.png)
-![Graph 2](https://raw.githubusercontent.com/r4j0x00/time-bound-computation/master/images/mmat2.png)
+![Graph 1](https://raw.githubusercontent.com/r4j0x00/time-bound-computation/master/images/mmat1.png?token=AHPFB5TMX3CWAJJ2Z5M23YK6CM72W)
+![Graph 2](https://raw.githubusercontent.com/r4j0x00/time-bound-computation/master/images/mmat2.png?token=AHPFB5WMI7JPILPR2G2RP326CNABI)
 
 ## Description
-
